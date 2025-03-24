@@ -1,0 +1,9 @@
+google-play-scraper
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+tensorflow
+nltk
+gensim
+textblob
