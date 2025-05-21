@@ -114,8 +114,8 @@ predict_sentiment("Aplikasinya sangat membantu dan mudah digunakan.")
 
 ## ✍️ Kontributor
 
-* 📛 Nama: \Renaldi Endrawan
-* 📧 Email: \renaldiendrawan@gmail.com
+* 📛 Nama: Renaldi Endrawan
+* 📧 Email: renaldiendrawan@gmail.com
 * 🚀 Dicoding Submission: Machine Learning Developer - Text Classification
 
 ---
